@@ -88,5 +88,7 @@ What is possible is to compile the kernel using an emulated PDP-11/73 within sim
 
 
 tapcat.pl found [here](https://github.com/eunuchs/unix-archive/tree/master/PDP-11/Boot_Images/2.11_on_Simh)
+
 vtc 2.11BSD client [here](http://home.windstream.net/engdahl/vtc.htm)
+
 Simulator used [simh](http://simh.trailing-edge.com/)
