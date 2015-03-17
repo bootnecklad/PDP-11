@@ -8,14 +8,14 @@ What is possible is to compile the kernel using an emulated PDP-11/73 within sim
 
 - On simh:
 
-      attach ts root.tap
+        attach ts root.tap
 
 - Start simulation
 - Within simh-unix copy required files to a folder named dump
 - Within simh-unix do:
 
-      mt rewind
-      tar cvf /dev/rmt12 dump
+        mt rewind
+        tar cvf /dev/rmt12 dump
 
 - End simulation
 - On simh do:
